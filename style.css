@@ -1,0 +1,55 @@
+*{
+    border-left:0px
+    margin:0px;
+}
+.inputStyle{
+    width:200px;
+    margin: auto;
+}
+.labelStyle{
+    color:blue
+}
+.imagesign {
+    color:rgb(134, 165, 42)
+}
+
+.container {
+    width: 900px;
+    margin:20px auto;
+    padding-top:20px;
+    background-color:hsl(212,45%,89% );
+    height:90vh;
+  } 
+
+.inner-container {
+    border-radius: 10px;
+    padding:10px;
+    margin:40px auto;
+    width:350px;
+    height:500px;
+    background-color:hsl(0, 0%, 100%);
+    
+    
+    
+}
+.buttonForm{
+    background-color: blue;
+    color:#fff
+}
+.img-container{
+    height: 320px;
+    width: 350px;
+}
+
+.card-img{
+    border-radius: 15px;
+    height:320px;
+    width:320px;
+}
+
+.text-container{
+    height: 250px;
+    margin-top: 25px;
+    padding:10px;
+
+}
